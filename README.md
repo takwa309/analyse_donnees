@@ -6,6 +6,7 @@ Ce projet vise à explorer, visualiser et classifier un jeu de données simulant
 ##  Contenu du dépôt
 
 - `Data_Analysis_Project.ipynb` : Notebook Google Colab contenant tout le code Python utilisé pour l’analyse.
+- `dataset.xlsx` : Jeu de données utilisé, contenant des informations climatiques et agricoles sur 200 exploitations.
 
 ##  Objectif du projet
 
