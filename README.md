@@ -50,4 +50,4 @@ L’objectif est de mettre en œuvre différentes techniques d’analyse de donn
 - Mise en évidence de liens entre les cultures, les régions, et les pratiques agricoles (type d’irrigation, usage des pesticides, etc.)
 
 
-** Remarque :** Ce projet est une illustration pédagogique des méthodes d’analyse de données appliquées à un cas concret du domaine agricole.
+ Remarque : Ce projet est une illustration pédagogique des méthodes d’analyse de données appliquées à un cas concret du domaine agricole.
