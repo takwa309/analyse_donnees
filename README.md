@@ -50,5 +50,6 @@ L’objectif est de mettre en œuvre différentes techniques d’analyse de donn
   -  Agriculture intensive avec rendement maximal
 - Mise en évidence de liens entre les cultures, les régions, et les pratiques agricoles (type d’irrigation, usage des pesticides, etc.)
 
+> Projet réalisé en : Mai 2025
 
  Remarque : Ce projet est une illustration pédagogique des méthodes d’analyse de données appliquées à un cas concret du domaine agricole.
